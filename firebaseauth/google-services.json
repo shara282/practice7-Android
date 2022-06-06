@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345284128073",
+    "project_id": "fir-auth-1ced9",
+    "storage_bucket": "fir-auth-1ced9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345284128073:android:bf24b778c4a2a875ef3e98",
+        "android_client_info": {
+          "package_name": "ru.mirea.zavarzin.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345284128073-o7u8n8nm7lbpfs0qn3k0esnv01j1gf7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOpnIjw9cC0UblsqPanRzkW5F7dVBHOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345284128073-o7u8n8nm7lbpfs0qn3k0esnv01j1gf7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
